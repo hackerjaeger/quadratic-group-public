@@ -1,2 +1,2 @@
 # quadratic-group
-Signature avoidant tools for specialized APT red teaming.
+Publicly shared signature avoidant tools for specialized APT red teaming.
